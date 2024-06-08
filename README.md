@@ -28,10 +28,9 @@ pip install -r requirements.txt
 pandas
 sqlalchemy
 jupyter
-<otros-paquetes-necesarios> ´´´
+<otros-paquetes-necesarios>
 
-
-## Instalación
+```bash
 Configura la base de datos: Proporciona la configuración necesaria para conectarse a tu base de datos. Por ejemplo, si utilizas una base de datos MySQL, asegúrate de tener el nombre de la base de datos, usuario, contraseña y host correctos.
 
 Archivo de Configuración: Crea un archivo de configuración, por ejemplo config.py, con el siguiente contenido:
