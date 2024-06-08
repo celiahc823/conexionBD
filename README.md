@@ -24,12 +24,11 @@ Para instalar las dependencias requeridas, ejecuta el siguiente comando:
 ```bash
 pip install -r requirements.txt
 
-
 ```bash
 pandas
 sqlalchemy
 jupyter
-<otros-paquetes-necesarios>
+<otros-paquetes-necesarios> ´´´
 
 
 ## Instalación
